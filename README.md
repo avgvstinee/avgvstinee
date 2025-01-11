@@ -53,8 +53,7 @@
 <p><a target="_blank" href="https://twitter.com/avgvstinee" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/avgvstinee" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/avgvstineee" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedavgvstinee" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://www.youtube.com/avgvstinee.x" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<a target="_blank" href="undefinedavgvstinee" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avgvstinee&show_icons=true&locale=en" alt="avgvstinee" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avgvstinee&" alt="avgvstinee" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avgvstinee&show_icons=true&locale=en&layout=compact" alt="avgvstinee" /></p>
